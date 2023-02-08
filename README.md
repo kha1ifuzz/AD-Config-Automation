@@ -17,7 +17,7 @@ $credential = New-Object System.Management.Automation.PSCredential("alto\adminis
 
 $session = New-PSSession -Vmname DC-01 -Credential $credential -Verbose
 $code = {
-	<---- <#here is the script or code you want to run on the virtual machine --->
+	       #<---- here is the script or code you want to run on the virtual machine ---->
 	}
 Invoke-Command -Session $session -ScriptBlock $code
 ```
