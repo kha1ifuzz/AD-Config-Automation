@@ -6,7 +6,7 @@ Most of the scripts within this repository are using "Active Directory Powershel
 
 Hyper-V is my virtualization solution of choice when it comes to building any Windows environment and there is Powershell module to help you perform administration tasks on Hyper-V as well.
 
-## How to use them
+## Usage
 One way to run these commands and scripts can be directly within the DC virtual machine (or other VMs).
 
 Another way is to run them from the Hyper-V HOST OS which natively can interact with Hyper-V virtual machines using their VMName or VMId via PowerShell Direct. Below is an example of connecting to DC-01 virtual machine and executing a piece of code.
