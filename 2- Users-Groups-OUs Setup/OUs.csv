@@ -1,0 +1,8 @@
+﻿name,path
+IT,"DC=example,DC=com"
+IT Admins,"OU=IT,DC=example,DC=com"
+IT Computers,"OU=IT,DC=example,DC=com"
+,
+,
+,
+,

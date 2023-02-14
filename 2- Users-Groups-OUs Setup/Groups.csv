@@ -1,0 +1,3 @@
+﻿name,path,scope,category
+Local Admins,"OU=IT Admins,OU=IT,DC=example,DC=com",DomainLocal,security
+Srvc Accounts,"OU=Service accounts,OU=IT,DC=example,DC=com",DomainLocal,security

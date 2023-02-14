@@ -1,0 +1,2 @@
+#this is used to change the default Domain Password Policy according to your requirements
+Set-ADDefaultDomainPasswordPolicy -Identity example.com -LockoutDuration 00:05:00 -LockoutObservationWindow 00:05:00 -ComplexityEnabled $True -ReversibleEncryptionEnabled $False -LockoutThreshold 5

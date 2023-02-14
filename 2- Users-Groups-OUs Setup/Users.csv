@@ -1,0 +1,3 @@
+﻿sAMAccountName,Password,Name,GivenName,Surname,UserPrincipalName,Path
+user-01,Passw0rd@,user-01,user-01,user-01,user-01@example.com,"CN=Users,DC=example,DC=com"
+admin-01,ITLAdmin@1234 ,admin-01,admin-01,admin-01,admin-01@example.com,"OU=IT Admins,OU=IT,DC=example,DC=com"
