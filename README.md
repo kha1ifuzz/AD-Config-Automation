@@ -7,7 +7,7 @@ Most of the scripts within this repository are using "Active Directory Powershel
 Hyper-V is my virtualization solution of choice when it comes to building any Windows environment and there is Powershell module to help you perform administration tasks on Hyper-V as well.
 
 I categorized them and put them in 5 folders:
-1. Domain Setup: scripts for configuring the DC and joining machines to the domain
+1. **Domain Setup**: scripts for configuring the DC and joining machines to the domain
 2. Users-Groups-OUs Setup: creating AD users, groups and organizational units.
 3. Group Policies: different group policies for different purposes like Password policy configuration and disabling security features.
 4. AD Misconfigurations: different misconfiguration scripts allowing common AD Attacks
