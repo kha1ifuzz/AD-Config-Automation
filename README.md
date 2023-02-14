@@ -1,7 +1,8 @@
 ## Automating Active Directory Environment Configuration
 
-These are collections of scripts and pieces of code that I use to set up my Active directory Home Lab for self practices or official trainings mainly focused on practicing security issues.
-You can use these scripts individually or embed them in other automation tools or scripts.
+These are collections of scripts and pieces of code that I use to set up my Active directory Home Lab for self practices or official trainings, mainly focused on security misconfigurations.
+You can use these scripts individually or embed them in your other automation tools or scripts.
+
 Most of the scripts within this repository are using "Active Directory Powershell Module" or using native windows programs that come pre-installed in windows OS's.
 Hyper-V is my virtualization solution of choice when it comes to building any Windows environment and there is Powershell module to help you perform administration tasks on Hyper-V as well.
 
