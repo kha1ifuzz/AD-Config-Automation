@@ -8,10 +8,10 @@ Hyper-V is my virtualization solution of choice when it comes to building any Wi
 
 I categorized them and put them in 5 folders:
 1. **Domain Setup**: scripts for configuring the DC and joining machines to the domain
-2. Users-Groups-OUs Setup: creating AD users, groups and organizational units.
-3. Group Policies: different group policies for different purposes like Password policy configuration and disabling security features.
-4. AD Misconfigurations: different misconfiguration scripts allowing common AD Attacks
-5. Misc: different configurations like disabling security features, configuring Fine Grained Policy and pushing to RDP local groups for the enhanced session at Hyper-V.
+2. **Users-Groups-OUs Setup**: creating AD users, groups and organizational units.
+3. **Group Policies**: different group policies for different purposes like Password policy configuration and disabling security features.
+4. **AD Misconfigurations**: different misconfiguration scripts allowing common AD Attacks
+5. **Misc**: different configurations like disabling security features, configuring Fine Grained Policy and pushing to RDP local groups for the enhanced session at Hyper-V.
 
 ## Usage
 One way to run these commands and scripts can be directly within the DC virtual machine (or other VMs).
